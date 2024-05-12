@@ -1,1 +1,3 @@
 # management_system
+
+这是一个基于springboot和vue的后台管理系统
